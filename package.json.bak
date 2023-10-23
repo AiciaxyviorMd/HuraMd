@@ -1,6 +1,7 @@
 {
   "name": "xyvior-bot",
   "version": "1.0.0-a",
+  "private": true,
   "type": "module",
   "description": "Base Alicia Bot Whatapp Untuk Informasi Update Script Bot Whatapp Terbaru 22 Oktober 2023",
   "main": "index.js",
