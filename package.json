@@ -1,0 +1,23 @@
+{
+  "name": "xyvior-bot",
+  "version": "1.0.0-a",
+  "private": true,
+  "type": "module",
+  "description": "Base Alicia Bot Whatapp Untuk Informasi Update Script Bot Whatapp Terbaru 22 Oktober 2023",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": {
+    "name": "alicia",
+    "email": "alicia@gmail.com",
+    "url": "https://github.com/AiciaxyviorMd"
+  },
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/xyvior-bot.git"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0"
+  }
+}
